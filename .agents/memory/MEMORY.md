@@ -1,0 +1,1 @@
+- [GitHub publishing](github-publishing.md) — GitHub connector API works, but Git CLI credentials may not; use encoded Git Data API uploads when needed.
